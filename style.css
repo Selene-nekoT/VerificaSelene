@@ -67,3 +67,9 @@ li {
     font-size:x-large;
 }
 
+.titolo {
+    font-size: 55px;
+    color: rgb(78 4 4);
+    font-family: 'Janda Stylish Script';
+    font-weight: bolder;
+}
