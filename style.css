@@ -1,0 +1,69 @@
+﻿table {
+    background-color: burlywood;
+    border-radius: 8px;
+    border: ridge solid black;
+}
+
+button {
+    border-radius: 50px;
+    background-color: burlywood;
+    padding:5px;
+    width:150px;
+    height:50px;
+}
+
+body {
+    background-image: url(res/backBlog.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+}
+
+div, nav {
+    background-color: blanchedalmond;
+    border: double 5px burlywood;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+img, dl, table, body {
+    text-align: center;
+}
+div>p{
+    text-align:justify;
+    padding:10px;
+}
+p strong {
+    font-size: large;
+    color: black;
+}
+
+* {
+    font-family: 'DejaVu Serif', Times, serif;
+    color: firebrick;
+    font-weight: bold;
+}
+
+a:hover {
+    color: crimson;
+    background-color:black;
+}
+
+a:visited {
+    color: firebrick;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding:0;
+    text-align:center;
+}
+li {
+    display: inline;
+    padding: 10px;
+    margin: 0 auto 0 auto;
+    font-size:x-large;
+}
+
